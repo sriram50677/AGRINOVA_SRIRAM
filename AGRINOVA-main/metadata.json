@@ -1,0 +1,6 @@
+{
+  "name": "AGRINOVA",
+  "description": "AGRINOVA is a professional platform for managing users, hosts, and payment records with photo proof verification and user approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
